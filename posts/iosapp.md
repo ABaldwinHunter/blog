@@ -27,7 +27,9 @@ And so here I am. Excited to be in an unknown land.
 
 ## The app:
 
-Surrender.
+~Surrender.~
+
+`Positive Constraint`
 
 Ever have a time when you desperately wanted to avoid a number on your phone but not delete or block it forever? What if you could sign up for an app that let you, possibly
 with the caveat that you'd pay it if you decide to unlock access to number for some amount of time.
@@ -67,4 +69,4 @@ How to make a simple iOS app of any kind. What permissions ios apps can have ava
 ## resources found and my opinions on them (please use salt)
 
 [bower bird]: http://www.viralforest.com/bower-bird/
-[is an alias for]: https://github.com/rails/rails/blob/88aa2efd692619e87eee88dfc48d608bea9bcdb4/activerecord/lib/active_record/connection_adapters/abstract/schema_definitions.rb#L429
+[alias]: https://github.com/rails/rails/blob/88aa2efd692619e87eee88dfc48d608bea9bcdb4/activerecord/lib/active_record/connection_adapters/abstract/schema_definitions.rb#L429
