@@ -18,7 +18,7 @@ For instance, in my Introduction to Microeconomics class I learned about probabl
 topic - which can be beautiful and intriguing - but typically requires increasing amounts of engagement to yield the same level of insight and new knowledge as an introductory or intermediate course.
 
 That's how I sometimes feel about ruby and rails. I'm pretty far from the PhD level of my rails knowledge (side note what would a PhD in rails look like? a 40 page essay
-on naming conventions and why `t.belongs_to` is an alias for `t.references` in active record migrations?)
+on naming conventions and why `t.belongs_to` is an [alias] for `t.references` in active record migrations?)
 
 But I've learned enough that sometimes developing feels rather rote - particularly in a craft that rewards coding uniformity with increased development speed and
 instant familiarity for newcomers to a codebase.
@@ -35,7 +35,7 @@ Ever have a time when you desperately wanted to avoid a number on your phone but
 with the caveat that you'd pay it if you decide to unlock access to number for some amount of time.
 
 As a long term product here, one awesome aspect is that this product is actually useful IMO. it's not so much not hearing from someone or not calling them that can be hard in - say -
-the gut wrenching weeks post break up where you feel affirmed in your passive decision never to try herioin because supposedly the withdrawal feels similar - but rather it's the constant waiting and resistance to an option that's a click away. It's exhausting. Constraints are a rarely requested or appreciated blessing. As we learn to become independent adults, part of our job taking care of ourselves is finding ways to impose compassionate and healthy restraints. `Surrender` (name in flux) could be a simple useful tool.
+the gut wrenching weeks post break up where you feel affirmed in your passive decision never to try heroin because supposedly the withdrawal feels similar - but rather it's the constant waiting and resistance to an option that's a click away. It's exhausting. Constraints are a rarely requested or appreciated blessing. As we learn to become independent adults, part of our job taking care of ourselves is finding ways to impose compassionate and healthy restraints. `Positive Constraint` (name in flux) could be a simple useful tool.
 
 I could not find any other app quite like this out there. There are some that rename a number of a contact in your phone - but what beleaguered star crossed unrequited Dante doesn't
 know their beatrice's number by heart while that person rests on the pedestal of our own creation?
@@ -67,6 +67,8 @@ How to make a simple iOS app of any kind. What permissions ios apps can have ava
 ## progress (updates forthcoming)
 
 ## resources found and my opinions on them (please use salt)
+
+- https://v1.designcode.io/sketch (great overview intro)
 
 [bower bird]: http://www.viralforest.com/bower-bird/
 [alias]: https://github.com/rails/rails/blob/88aa2efd692619e87eee88dfc48d608bea9bcdb4/activerecord/lib/active_record/connection_adapters/abstract/schema_definitions.rb#L429
